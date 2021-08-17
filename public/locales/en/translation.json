@@ -1,0 +1,9 @@
+{
+    "headers": {
+        "about": "About",
+        "archive": "Archive",
+        "saveValue": "Save Value in Local Storage",
+        "themeChanger": "Change Theme",
+        "languageChanger": "Change Language"
+    }
+}

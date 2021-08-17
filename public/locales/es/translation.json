@@ -1,0 +1,9 @@
+{
+    "headers": {
+        "about": "Es_About",
+        "archive": "Es_Archive",
+        "saveValue": "Es_ Save Value in Local Storage",
+        "themeChanger": "Es_ Change Theme",
+        "languageChanger": "Es_ Change Language"
+    }
+}
